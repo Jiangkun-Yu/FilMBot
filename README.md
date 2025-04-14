@@ -12,7 +12,7 @@ FilMBot/<br>
 ├── hardware/               &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Electronics & mechanical design<br>
 │   &emsp;&emsp;├── 3D models/           &ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# STL files for 3D printed parts<br>
 │   &emsp;&emsp;├── cut patterns/        &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# Laser-cut/printable patterns for film structure<br>
-│   &emsp;&emsp;└── schematic and PCB    &npsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# PCB schematics, board layout, Gerber files and releted instructions and datasheets<br>
+│   &emsp;&emsp;└── schematic and PCB    &npsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;# PCB schematics, board layout, Gerber files ... <br>
 │   		&emsp;&emsp;&emsp;&emsp;&emsp;├── 01 Gerber file for ordering PCB/<br>
 │   		&emsp;&emsp;&emsp;&emsp;&emsp;├── 02 schematic and bill of electronic components.pdf/<br>
 │   		&emsp;&emsp;&emsp;&emsp;&emsp;├── 03 Mega 2560 Rev3_datasheet_from docs.arduino.cc.pdf/<br>
