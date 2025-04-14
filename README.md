@@ -109,7 +109,11 @@ Feel free to reach out to the project author:
 
 Jiangkun Yu
 
-Doctoral Researcher, Aalto University
+Doctoral Researcher
+
+Robotic Instruments Group
+
+Aalto University, Finland
 
 📧 jiangkun.yu@aalto.fi
 
