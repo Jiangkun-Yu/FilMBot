@@ -91,7 +91,9 @@ FilMBot is designed to be built with only basic tools, with no need for a CNC or
 ## 🤝 License and Citation
 Please cite the original paper when using this work in academic or public projects to help spread the impact of this open-source initiative:
 
-https://doi.org/10.48550/arXiv.2410.23059
+https://doi.org/10.1109/TRO.2026.3658292
+and
+https://doi.org/10.1109/MARSS65887.2025.11072791 
 
 ## 🌟 How to Contribute
 We welcome contributions from the community! You can help by:
